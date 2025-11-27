@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwNzk5MjIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3NWNhQTExM0Y1NzJhNDA3RWRiOGE0OUZjZTFjZjk0MTBFZjE4ODFjIn0",
+    "payload": "eyJkb21haW4iOiJqZXNzZXB1bmttaW50LnZlcmNlbC5hcHAifQ",
+    "signature": "rn/tFbjf7yw18FTAvby3Gi5okwy1XxjpQLsWE7UwdhFvNjxfd2NJp/pid8ET6MdAg3aKCC8pEtwUghkIkWvxQxs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://jessepunkmint.vercel.app/icon.png",
+    "homeUrl": "https://jessepunkmint.vercel.app",
+    "imageUrl": "https://jessepunkmint.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://jessepunkmint.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://jessepunkmint.vercel.app/api/webhook"
+  }
+}
